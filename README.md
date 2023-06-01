@@ -1,7 +1,9 @@
 # This is a dashboards visualization of Airbnb-Analysis
-<img width="960" alt="2023-05-30 (1)" src="https://github.com/dharmi15/Airbnb-Analysis/assets/79712938/42477519-4bca-4e50-a33e-5d62d0430f57">
-<img width="960" alt="2023-05-30 (2)" src="https://github.com/dharmi15/Airbnb-Analysis/assets/79712938/89783a0f-8e40-4cd2-8f03-dfbefd04aea4">
-<img width="960" alt="2023-05-30 (3)" src="https://github.com/dharmi15/Airbnb-Analysis/assets/79712938/56aa57a9-bd58-4ca5-906d-1c1b058ef558">
-<img width="960" alt="2023-05-30 (4)" src="https://github.com/dharmi15/Airbnb-Analysis/assets/79712938/78c12750-4649-4df6-b947-54740a289139">
-<img width="960" alt="2023-05-30 (5)" src="https://github.com/dharmi15/Airbnb-Analysis/assets/79712938/fd02cb54-eabf-49e0-b896-b4f2b1fca0f8">
-<img width="960" alt="2023-05-30" src="https://github.com/dharmi15/Airbnb-Analysis/assets/79712938/5a05d1df-30f3-42b5-a82b-a472731d74af">
+<img width="952" alt="Airbnb 1" src="https://github.com/dharmi15/Airbnb-Analysis/assets/79712938/74316d99-c2d4-4bc8-b1a1-db8a9fb69ab3">
+<img width="959" alt="Airbnb 2" src="https://github.com/dharmi15/Airbnb-Analysis/assets/79712938/378d6a6f-95e3-46ff-be33-535fbb5c95db">
+<img width="960" alt="Airbnb 3" src="https://github.com/dharmi15/Airbnb-Analysis/assets/79712938/16676379-0625-4675-b970-9e4cf0cef9c9">
+<img width="960" alt="Airbnb 4" src="https://github.com/dharmi15/Airbnb-Analysis/assets/79712938/2750bf07-a615-4924-8121-96a259f8d115">
+<img width="959" alt="Airbnb 5" src="https://github.com/dharmi15/Airbnb-Analysis/assets/79712938/46a3d6c1-1808-4dbf-a784-87f67830512c">
+<img width="958" alt="Airbnb dashboard" src="https://github.com/dharmi15/Airbnb-Analysis/assets/79712938/1044032f-3dfc-4111-9938-8135f44f16be">
+
+
